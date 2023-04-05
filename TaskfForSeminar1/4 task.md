@@ -3,4 +3,4 @@
 
 Прототип низкой детализации сайта яндекс дзен
 
-![фото](images/ASiteWithLowDetail.png)
+![фото](ASiteWithLowDetail.png)
