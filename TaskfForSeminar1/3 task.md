@@ -3,11 +3,11 @@
 
 Было
 ![ФотоСтаройВерисииСайта](
-/TaskfForSeminar1/images/TheOriginalVersion.png)
+../TaskfForSeminar1/images/TheOriginalVersion.png)
 
 Стало
 ![ФотоНовойВерисииСайта](
-/TaskfForSeminar1/images/ModifiedVersionOfTheSite.png)
+../TaskfForSeminar1/images/ModifiedVersionOfTheSite.png)
 
 **Список изменений**
 1. Изменил название в блоке навигации по сайту с "Ролики" на "Шарики"
