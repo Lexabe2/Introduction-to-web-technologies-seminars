@@ -3,7 +3,7 @@
 
 Было
 ![ФотоСтаройВерисииСайта](
-../TaskfForSeminar1/images/TheOriginalVersion.png)
+./images/TheOriginalVersion.png)
 
 Стало
 ![ФотоНовойВерисииСайта](
