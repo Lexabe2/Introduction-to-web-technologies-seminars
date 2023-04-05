@@ -12,4 +12,10 @@
     * Кнопка для перехода в ролики 
     * Кнопка для перехода в видео 
     * Кнопка для поиска в Дзене
-3. Блок с новостями (feed _column-count_2 _is-desktop-redesign _grid-type_fixed _is-redesign _is-redesign-desktop-cards-has-hover-shadows)
+3. Блока с новостями (dzen-desktop__feed-3W) в блоке с новостями так же есть:
+    * "Горячие новости"
+    * Видео 
+4. Блока бокового меню (right-sidebar__rightSidebar-2g) в боковом меню так же есть:
+    * Блок с погодой 
+    * Блок с курсом денег
+    * Блок с музыкой
